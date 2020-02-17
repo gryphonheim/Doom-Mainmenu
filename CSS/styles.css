@@ -1,0 +1,28 @@
+body {
+  background-color: #2C0406;
+  color: #c2938f;
+}
+
+.heading {
+  background-color: #2C0406;
+  margin-bottom: 0;
+  padding-bottom: 10px;
+}
+
+.mode-select {
+  background: linear-gradient(#2C0406, #4F0405);
+  padding:
+    margin: 0;
+}
+
+.modes {
+  color: #c2938f;
+  border-color: #c2938f;
+}
+
+.redline {
+  width: 90%;
+  border-radius: 100%;
+  height: 2px;
+  background-color: #BA3D2E;
+}
