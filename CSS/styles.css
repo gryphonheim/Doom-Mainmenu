@@ -41,13 +41,21 @@ body {
 }
 
 .news-cards {
-  background-color: #4F0405;
-  padding-bottom: 20px;
+  background: linear-gradient(#4F0405, #2C0406);
+}
+
+.alignment {
+  padding: 10px;
+}
+
+.d-block {
+  padding-left: 20px;
 }
 
 .footer {
   background: linear-gradient(#2C0406, #000);
-  padding: 50px 10px;
+  color: #FFF;
+  padding-bottom: 20px;
 
 }
 
