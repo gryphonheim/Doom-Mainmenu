@@ -57,5 +57,21 @@ body {
   color: #BF4040;
   text-decoration: none;
   font-family: monospace;
+  font-size: 1.5rem;
   margin-left: 50px;
+}
+
+.control-prompt:hover {
+  text-decoration: none;
+  color: #FF4040;
+}
+
+.control-button {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.control-button:hover {
+    text-decoration: none;
+    color: #FF4040;
 }
