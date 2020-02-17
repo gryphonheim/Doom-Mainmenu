@@ -6,18 +6,31 @@ body {
 .heading {
   background-color: #2C0406;
   margin-bottom: 0;
-  padding-bottom: 10px;
+  padding-bottom: 50px;
+}
+
+.logo {
+  width: 200px;
+  margin: 10px;
 }
 
 .mode-select {
   background: linear-gradient(#2C0406, #4F0405);
-  padding:
-    margin: 0;
+  padding: 10px 20px;
+  margin: 0;
 }
 
 .modes {
   color: #c2938f;
-  border-color: #c2938f;
+  margin-left: 30px;
+  text-decoration: none;
+  font-size: 1.5rem;
+  font-family: monospace;
+}
+
+.modes:hover {
+  text-decoration: none;
+  color: #ff938f;
 }
 
 .redline {
