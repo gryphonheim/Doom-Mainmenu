@@ -46,6 +46,10 @@ body {
   padding: 10px 10px 50px;
 }
 
+.img-small {
+  margin-bottom: 33px;
+}
+
 .footer {
   background: linear-gradient(#2C0406, #000);
   color: #FFF;
